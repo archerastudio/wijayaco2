@@ -143,7 +143,7 @@ Primary use:	HTML Template for Law Firm
 
 @media (max-width: 720px) {
 .address-line {
-  margin-top: -280px;
+  margin-top: -290px;
 }
 
 }
@@ -7187,7 +7187,7 @@ body > .jcf-select-drop.jcf-drop-flipped {
   .main-gallery {
     position: relative;
     width: 100%;
-    margin-bottom: -430px !important; }
+    margin-bottom: -500px !important; }
     .main-gallery:after {
       position: relative;
       content: "";
